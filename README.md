@@ -1,5 +1,7 @@
 ## Welcome to my profile ❤️
 I'm Richard
+
+TODO: finish
 <!--
 **Em1tt/Em1tt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
