@@ -1,7 +1,9 @@
 ### <div align="center">👋 I'm Richard, a full-stack developer working on making the web a better place 🌴</div>  
   <br/>
 
-- 👷 Currently working on [Hallify.sk](https://github.com/em1tt/soc) (my side hustle)  
+- 🖼️ Check out my [portfolio](https://em1t.xyz/portfolio) of websites and other graphic design adventures.
+
+- 👷 Currently working on [Hallify](https://github.com/em1tt/soc) (my side hustle)  
   
 
 - 🏫 I’m currently learning Docker & how to comment my code better  
