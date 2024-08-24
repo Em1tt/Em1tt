@@ -1,6 +1,8 @@
 ### <div align="center">👋 I'm Richard, a full-stack developer working on making the web a better place 🌴</div>  
   <br/>
 
+- ⚠️ **I'm currently migrating my server to a Raspberry PI. My websites might not be accessible during this time.**
+
 - 🖼️ Check out my [portfolio](https://em1t.xyz/portfolio) of websites and other graphic design adventures.
 
 - 👷 Currently working on [Hallify](https://github.com/em1tt/soc) (my side hustle)  
