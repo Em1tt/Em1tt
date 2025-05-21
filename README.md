@@ -3,9 +3,9 @@
 
 - ⚠️ **I'm currently migrating my server to a Raspberry PI. My websites might not be accessible during this time.**
 
-- 🖼️ Check out my [portfolio](https://em1t.xyz/portfolio) of websites and other graphic design adventures.
+- 🖼️ Check out my [portfolio](https://em1t.me) of websites and other graphic design adventures.
 
-- 👷 Currently working on [Hallify](https://github.com/em1tt/soc) (my side hustle)  
+- 👷 Currently working on [Hallify](https://github.com/hallify-sk) (my side hustle)  
   
 
 - 🏫 I’m currently learning Docker & how to comment my code better  
