@@ -1,8 +1,6 @@
 ### <div align="center">👋 I'm Richard, a full-stack developer working on making the web a better place 🌴</div>  
   <br/>
 
-- ⚠️ **I'm currently migrating my server to a Raspberry PI. My websites might not be accessible during this time.**
-
 - 🖼️ Check out my [portfolio](https://em1t.me) of websites and other graphic design adventures.
 
 - 👷 Currently working on [Hallify](https://github.com/hallify-sk) (my side hustle)  
@@ -12,9 +10,6 @@
   
 
 - ⚡ Fun fact: I love playing basketball, even though I suck
-
-
-- ❗ I'm not currently happy with my activity on GitHub, working on actively changing that
 <br/>
 
 ## Github Stats  
