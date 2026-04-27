@@ -3,13 +3,10 @@
 
 - 🖼️ Check out my [portfolio](https://em1t.me) of websites and other graphic design adventures.
 
-- 👷 Currently working on [Hallify](https://github.com/hallify-sk) (my side hustle)  
+- 👷 Currently working for [Pumplo](https://pumplo.com) as a freelance designer & developer  
   
 
-- 🏫 I’m currently learning Docker & how to comment my code better  
-  
-
-- ⚡ Fun fact: I love playing basketball, even though I suck
+- 🏫 Masaryk University Faculty of Informatics student | Programming and Development of Applications 
 <br/>
 
 ## Github Stats  
